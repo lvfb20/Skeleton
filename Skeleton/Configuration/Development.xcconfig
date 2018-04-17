@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  Skeleton
+//
+//  Created by Work on 4/16/18.
+//  Copyright © 2018 LegnaFilloy. All rights reserved.
+//
+#include "Pods/Target Support Files/Pods-SkeletonUITests/Pods-SkeletonUITests.development.xcconfig"
+#include "Pods/Target Support Files/Pods-SkeletonTests/Pods-SkeletonTests.development.xcconfig"
+#include "Pods/Target Support Files/Pods-Skeleton/Pods-Skeleton.development.xcconfig"
+
+server_url = www.development.com

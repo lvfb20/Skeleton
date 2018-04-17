@@ -1,0 +1,12 @@
+//
+//  QA.xcconfig
+//  Skeleton
+//
+//  Created by Work on 4/16/18.
+//  Copyright © 2018 LegnaFilloy. All rights reserved.
+//
+#include "Pods/Target Support Files/Pods-SkeletonUITests/Pods-SkeletonUITests.qa.xcconfig"
+#include "Pods/Target Support Files/Pods-SkeletonTests/Pods-SkeletonTests.qa.xcconfig"
+#include "Pods/Target Support Files/Pods-Skeleton/Pods-Skeleton.qa.xcconfig"
+
+server_url = www.qa.com
